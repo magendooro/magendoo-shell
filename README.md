@@ -19,8 +19,8 @@ Usage:
 
 Delete website/store/group
 ==========================
-<pre>
 Usage:
+<pre>
     php -f delete.php --list --(website|group|store) <id> --backupdb --cleanup
 
         --list                  - Show all websites/stores
